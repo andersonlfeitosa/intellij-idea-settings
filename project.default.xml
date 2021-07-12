@@ -1,0 +1,47 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="anderson" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>CorrectnessLintAndroid</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>Manifest</id>
+              </State>
+              <State>
+                <id>MessagesCorrectnessLintAndroid</id>
+              </State>
+              <State>
+                <id>Proofreading</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Proofreading</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
